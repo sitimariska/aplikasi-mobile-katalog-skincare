@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1016693113987",
+    "project_id": "pasyawy",
+    "storage_bucket": "pasyawy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1016693113987:android:123e2f4a8a2748f57887b6",
+        "android_client_info": {
+          "package_name": "com.pa.syawy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1016693113987-6j07bv8lsdiapfquq1um2hjdbqskrmr4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYWPzpFJi4LJbz5tDtsW62InIXnNLVuNk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1016693113987-6j07bv8lsdiapfquq1um2hjdbqskrmr4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
